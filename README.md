@@ -39,7 +39,7 @@ It prevents unauthorized access, detects anomalies in real-time, and even **depl
 
 ### 5. **Real-Time Monitoring & Forensic Logging**
 - Maintains logs of all system activities and authentication events.  
-- Supports forensic investigations with detailed IP, timestamp, and behavior records.  
+- Supports forensic investigations with detailed IP, timestamp and behavior records.  
 - Ensures transparency and post-incident analysis.
 
 ---
