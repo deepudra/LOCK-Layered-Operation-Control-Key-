@@ -10,7 +10,7 @@
 As cyber threats evolve beyond the capabilities of encryption and firewalls, LOCK introduces a **hardware-anchored, behavior-based, and deception-enhanced** approach to security.  
 It prevents unauthorized access, detects anomalies in real-time, and even **deploys fake data to mislead attackers**, creating an adaptive, proactive, and quantum-resistant cybersecurity framework.
 
-![alt text]([http://url/to/img.png](github.com/deepudra/LOCK-Layered-Operation-Control-Key-/blob/main/LOCK_Dia.png?raw=true))
+![Alt text](LOCK_Dia.png)
 ---
 
 ## 🚀 Key Features
