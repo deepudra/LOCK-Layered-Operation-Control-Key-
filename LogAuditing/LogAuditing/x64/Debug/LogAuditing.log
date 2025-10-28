@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  LogAuditing.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(215,39): warning C4244: 'argument': conversion from 'unsigned long' to '_Ty', possible loss of data
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(215,39): warning C4244:         with
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(215,39): warning C4244:         [
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(215,39): warning C4244:             _Ty=uint8_t
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(215,39): warning C4244:         ]
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(405,22): warning C4129: 'S': unrecognized character escape sequence
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(430,41): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(461,29): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\UnityProjects\Deepu\LOCK_wrk\Framework\LogAuditing\LogAuditing.cpp(464,29): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  LogAuditing.vcxproj -> C:\UnityProjects\Deepu\LOCK_wrk\LOCK\LOCKser.exe
