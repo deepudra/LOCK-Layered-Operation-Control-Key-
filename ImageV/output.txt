@@ -1,0 +1,2 @@
+Hello, this is another method to create a file.
+Using open() function explicitly.

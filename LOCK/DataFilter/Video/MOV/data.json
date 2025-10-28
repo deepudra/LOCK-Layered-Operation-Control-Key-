@@ -1,0 +1,11 @@
+{
+    "Signature": "66 74 79 70 71 74 20 20", 
+    "Type": "VIDEO", 
+    "Ext": "MOV",
+    "Owner": "NSO", 
+    "Read": "True", 
+    "Write": "False", 
+    "Execute": "False", 
+    "Opens with": "QuickTime, VLC, Media Player", 
+    "Hidden": "False"
+}

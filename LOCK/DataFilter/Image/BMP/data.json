@@ -1,0 +1,11 @@
+{
+    "EXT":"BMP", 
+    "Signature": "42 4D",
+    "Type": "IMAGE",
+    "Owner": "NSO",
+    "Read": "True",
+    "Write": "False",
+    "Execute": "False",
+    "Opens with": "MS Paint, Photoshop, GIMP",
+    "Hidden": "False"
+}

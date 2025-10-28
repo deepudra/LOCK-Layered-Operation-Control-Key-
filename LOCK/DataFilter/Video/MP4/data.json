@@ -1,0 +1,11 @@
+{
+    "Signature": "66 74 79 70 69 73 6F 6D", 
+    "Type": "VIDEO", 
+    "Ext": "MP4",
+    "Owner": "NSO", 
+    "Read": "True", 
+    "Write": "False", 
+    "Execute": "False", 
+    "Opens with": "Media Player, VLC, QuickTime", 
+    "Hidden": "False"
+}

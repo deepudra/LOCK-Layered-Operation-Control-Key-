@@ -1,0 +1,11 @@
+{
+    "EXT": "HEIF", 
+    "Signature": "66 74 79 70",
+    "Type": "IMAGE",
+    "Owner": "NSO",
+    "Read": "True",
+    "Write": "False",
+    "Execute": "False",
+    "Opens with": "Photos app (Windows, macOS, iOS), Photoshop, GIMP, VLC, ImageMagick",
+    "Hidden": "False"
+    }

@@ -1,0 +1,11 @@
+{
+    "EXT" :"PNG", 
+    "Signature": "89 50 4E 47 0D 0A 1A 0A",
+    "Type": "IMAGE",
+    "Owner": "NSO",
+    "Read": "True",
+    "Write": "False",
+    "Execute": "False",
+    "Opens with": "Photos, Photoshop, GIMP, Web Browsers",
+    "Hidden": "False"
+}

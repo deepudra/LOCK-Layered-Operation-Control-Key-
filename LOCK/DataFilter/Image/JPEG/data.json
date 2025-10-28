@@ -1,0 +1,11 @@
+{
+    "EXT": "JPEG",
+    "Signature": "FF D8 FF",
+    "Type": " IMAGE",
+    "Owner": "NSO",
+    "Read": "True",
+    "Write": "False",
+    "Execute": "False",
+    "Opens with": "Photos, Photoshop, GIMP, Web Browsers",
+    "Hidden": "False"
+}

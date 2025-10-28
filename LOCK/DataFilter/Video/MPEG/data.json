@@ -1,0 +1,11 @@
+{
+    "Signature": "00 00 01 BA or 00 00 01 B3", 
+    "Type": "VIDEO", 
+    "Ext": "MPEG",
+    "Owner": "NSO", 
+    "Read": "True", 
+    "Write": "False", 
+    "Execute": "False", 
+    "Opens with": "VLC, Media Player, MPEG Player", 
+    "Hidden": "False"
+}

@@ -1,0 +1,11 @@
+{
+    "Signature": "52 49 46 46 ?? ?? ?? ?? 41 56 49 20", 
+    "Type": "VIDEO", 
+    "Ext": "AVI",
+    "Owner": "NSO", 
+    "Read": "True", 
+    "Write": "False", 
+    "Execute": "False", 
+    "Opens with": "Media Player, VLC", 
+    "Hidden": "False"
+}

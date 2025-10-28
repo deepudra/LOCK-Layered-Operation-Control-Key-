@@ -1,0 +1,11 @@
+{
+    "Signature": "1A 45 DF A3", 
+    "Type": "VIDEO", 
+    "Ext": "WEBM",
+    "Owner": "NSO", 
+    "Read": "True", 
+    "Write": "False", 
+    "Execute": "False", 
+    "Opens with": "Chrome, VLC, Media Player", 
+    "Hidden": "False"
+}

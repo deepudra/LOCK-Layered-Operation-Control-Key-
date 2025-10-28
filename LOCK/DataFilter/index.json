@@ -1,0 +1,6 @@
+{
+    "Image": ["PNG", "JPG", "HEIF", "WEBP", "BMP"],
+    "Pdf": ["PDF"],
+    "Video": ["MP4", "MOV", "AVI", "MPEG", "WEBM"],
+    "Software": ["EXE"]
+}

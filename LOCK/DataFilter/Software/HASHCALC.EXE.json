@@ -1,0 +1,11 @@
+{
+    "EXT" :"EXE", 
+    "Signature": "XX XX XX",
+    "Type": "SOFTWARE",
+    "Owner": "SLAVASOFT",
+    "Read": "True",
+    "Write": "False",
+    "Execute": "True",
+    "Opens with": "HashCalc",
+    "Hidden": "False"
+}

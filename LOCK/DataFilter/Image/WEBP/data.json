@@ -1,0 +1,11 @@
+{
+    "EXT" :"WEBP", 
+    "Signature": "52 49 46 46 XX XX XX XX 57 45 42 50",
+    "Type": "IMAGE",
+    "Owner": "NSO",
+    "Read": "True",
+    "Write": "False",
+    "Execute": "False",
+    "Opens with": "Web Browsers, Photoshop, GIMP, Image Viewers",
+    "Hidden": "False"
+}
