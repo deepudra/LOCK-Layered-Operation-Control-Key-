@@ -11,6 +11,8 @@ As cyber threats evolve beyond the capabilities of encryption and firewalls, LOC
 It prevents unauthorized access, detects anomalies in real-time, and even **deploys fake data to mislead attackers**, creating an adaptive, proactive, and quantum-resistant cybersecurity framework.
 
 ![Alt text](LOCK_Dia.png)
+![Alt text](LOCKworking.png)
+![Alt text](LOCK_2.png)
 ---
 
 ## 🚀 Key Features
