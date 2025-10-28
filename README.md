@@ -1,4 +1,4 @@
-
+   
 # 🔒 LOCK: Bridging Physical and Digital Security for Cyber Defense
 
 **LOCK (Layered Operation Control Key)** is a hybrid cybersecurity framework that integrates **physical intervention** with **digital security** to create a multi-layered defense system against modern cyber threats. Unlike traditional security systems that rely solely on software protection, LOCK requires **manual activation through a hardware-assisted switch** before executing critical operations — effectively eliminating the possibility of remote cyberattacks.
